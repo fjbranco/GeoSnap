@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GeoSnap</string>
+    <string name="saudacao">Olá Mundo</string>
+    <string name="sobre">Trabalho académico de Filipe Branco\nInstituto Politécnico de Tomar</string>
 </resources>
